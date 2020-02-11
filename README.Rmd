@@ -2,7 +2,9 @@
 title: "Tools to Enhance Productivity, Collaboration, and Transparency"
 output: github_document
 ---
-## Pre-Tutorial $\Sigma$et-up
+## Pre-Tutorial $\beta$et-up
+
+
 
 This tutorial provides an introduction to a collection of tools designed to increase research productivity, collaboration, and transparency.  The content for this tutorial is largely drawn from a collection of trainings provided to research assistants in the quantitative marketing research lab at Brigham Young University.      
 
@@ -10,7 +12,7 @@ This will be an interactive tutorial, so please prepare your laptop with the app
 
 - Create a free github account
 - Install R and Rstudio
-- Install Git
+- Install Git$$\sum_n^i$$
 
 Specific details on how to get started appear in Jenny Bryan's [pre-workshop set-up](https://happygitwithr.com/workshops.html?mkt_tok=eyJpIjoiT1RVelptVTNZams0T0dZMiIsInQiOiJlR0orVlVpaHZsRlwveWh5QUJPN2U1Q3BcL0pHVHo5RXJ5UkhabFlwVXM4NlEwcHhRTENQZmVxaEEyNnVLSkRFTTdVa0hyNjk4MkFHYUU1Nkt5VXNtRm9heFM3N3dnUFplZ1V5anpRTWdnWDVscE1lOUR6VzBHaGFQOUFhOGd1QkN3In0=#pre-workshop-set-up). Please follow this link and complete the list of items in section 3.1.  This can take up to a few hours, so plan accordingly. Note that the following Git/GitHub material draws heavily from Jenny Bryan's training on using Git and GitHub from rstudio::conf 2019.
 

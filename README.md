@@ -15,7 +15,7 @@ of the tutorial include:
 
   - Create a free github account
   - Install R and Rstudio
-  - Install Git
+  - Install Git\[\sum_n^i\]
 
 Specific details on how to get started appear in Jenny Bryan’s
 [pre-workshop
